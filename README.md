@@ -1,6 +1,6 @@
 # 🏗️ Boilerplate for Nuxt, Tailwind & NetlifyCMS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cb2d4cc5-8a65-4940-81ce-4456ff96e6db/deploy-status)](https://app.netlify.com/sites/ntn-boilerplate/deploys) ← replace with [your own](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_SLUG/settings/general#deploy-status-badge)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49f8b3d0-b75a-4cfc-b93c-8b0a74f5fe24/deploy-status)](https://app.netlify.com/sites/isthefood/deploys)
 
 **[Live Demo](https://ntn-boilerplate.netlify.app/)**
 
