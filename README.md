@@ -1,4 +1,6 @@
-# 🏗️  Isthefood website with Nuxt, Tailwind & NetlifyCMS
+# 🥙 💚 Isthefood website with Nuxt, Tailwind & NetlifyCMS
+Delicious healthy whole food plant-based SOS free recipes. 
+it is free, SOS free 😃🥬
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/49f8b3d0-b75a-4cfc-b93c-8b0a74f5fe24/deploy-status)](https://app.netlify.com/sites/isthefood/deploys)
 
